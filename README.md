@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Software, software testing, I work on database, web development.
 
-C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, .Net Core, Python softwares. 
+C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, .Net Core, Python. 
 Database; I have knowledge of SQLServer, MySQL management and design. <br></br>
 I love learning, cars and software.
 
