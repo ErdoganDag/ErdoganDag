@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Software, software testing, I work on database, web development.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Software, software testing, I work on database and web development.
 
 C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, Linux, Bash, .Net Core, Python softwares.
 Database; I have knowledge of SQLServer, MySQL management and design.
